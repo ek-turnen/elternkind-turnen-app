@@ -1,2 +1,2 @@
 # Eltern-Kind-Turnen App
-Vollständiges App-Projekt
+Dies ist eine funktionierende App mit Startseite.
