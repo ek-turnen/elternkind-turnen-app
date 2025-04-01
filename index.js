@@ -1,0 +1,1 @@
+export default function Home() { return <main><h1>Eltern-Kind-Turnen</h1><p>Deine App funktioniert!</p></main>; }
