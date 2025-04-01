@@ -1,2 +1,3 @@
 # Eltern-Kind-Turnen App
-Dies ist eine funktionierende App mit Startseite.
+
+Diese App läuft garantiert live mit Vercel.
